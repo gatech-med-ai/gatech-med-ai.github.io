@@ -1,0 +1,13 @@
+[project]
+name = "homepage"
+version = "0.1.0"
+description = "GaTech MedAI Homepage documentation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+docs = [
+    "sphinx==8.2.3",
+    "sphinx-rtd-theme==3.0.2",
+]

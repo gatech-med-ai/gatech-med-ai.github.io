@@ -9,19 +9,19 @@ GaTech Medical Imaging and AI is a Georgia Tech student group focused on medical
 Who can join?
 -------------
 
-Any student at Georgia Tech can "join". However, research participation will be up to the team leader to select students who apply to their project.
+Any student at Georgia Tech can join. However, research participation is up to the team leader, who selects students who apply to their project.
 
-.. note:: We do not have a public link to our discord to prevent spammers from joining the server.
-    If you have been admitted but are awaiting access, or an alumni, please reach out to eric.regina@gatech.edu to ask for admission.
+.. note:: We do not have a public link to our Discord server, to prevent spammers from joining.
+    If you have been admitted but are awaiting access, or if you are an alumnus, please reach out to eric.regina@gatech.edu to ask for admission.
 
 Do I have to have taken any specific courses to join?
 -----------------------------------------------------
 
-No, but it is recommended to have some background knowledge in applying Deep Learning. In general the more imaging
-and AI related knowledge you can accumulate, the better.
+No, but it is recommended that you have some background knowledge in applied deep learning. In general, the more imaging
+and AI-related knowledge you can accumulate, the better.
 
-What is required to successful in research?
--------------------------------------------
+What is required to be successful in research?
+----------------------------------------------
 
 Success in research is much more about initiative and consistency than prior knowledge, experience, or coursework.
 
@@ -50,13 +50,12 @@ That can feel frustrating when you get lost, but it also reflects the nature of 
 If there were obvious solutions to the problems you are trying to solve, research would not be necessary.
 
 If you are willing to commit and put in the time, you can very likely succeed in research, even if you start with little prior knowledge.
-Keep in mind, conferences **want** to have more researchers attend, journals **want** to publish more papers and professors **want** to advise more projects.
-Everyone by default is looking for reasons to say "yes". When a very motivated student comes along, the powers that be will **want** to help you.
+Keep in mind that conferences **want** more researchers to attend, journals **want** to publish more papers, and professors **want** to advise more projects.
+By default, everyone is looking for reasons to say "yes." When a very motivated student comes along, the people in a position to help will **want** to help.
 
 
 How do I get involved?
 ----------------------
 
 Visit the :doc:`quick-start` page for current ways to participate.
-
 

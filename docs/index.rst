@@ -11,4 +11,5 @@ This is the homepage for the Georgia Tech MedAI student group.
    :caption: Contents
 
    quick-start
+   deep-learning-resources
    faq

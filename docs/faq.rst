@@ -36,7 +36,7 @@ For students new to research, this is both *encouraging and challenging.*
 
 The encouraging part is that it levels the playing field. Unless someone is already an expert in the
 exact topic, everyone starts from a similar place. Being a good researcher depends much more on initiative,
-curiosity, and steady time commitment than on already knowing all the answers. ***Consistency is everything***.
+curiosity, and steady time commitment than on already knowing all the answers. **Consistency is everything**.
 Often, that means putting in an hour or two a day and steadily building understanding over time.
 
 The challenging part, especially in a student group, is that everyone may start close to zero.

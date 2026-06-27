@@ -7,7 +7,7 @@ Foundational Books and Courses
 ------------------------------
 
 - `Learning from Data <https://amlbook.com>`__ - Possibly the best introduction to classical machine learning ever written. The accompanying `video lectures <https://www.youtube.com/playlist?list=PLVEPy8ds83ITh8KjAifEBFeDb4MoZGcv0>`__ from the author are a masterclass in engaging lecturing and teaching.
-- `Understanding Deep Learning <https://udlbook.github.io/udlbook/>`__ - A strong introduction to deep learning intuition. The book is free and includes many excellent Jupyter notebooks and additional material on the website.
+- `Understanding Deep Learning <https://udlbook.github.io/udlbook/>`__ - A strong introduction to deep learning intuition. The book is free and includes many excellent Jupyter notebooks and additional material on the website. There are also `video lectures <https://www.youtube.com/playlist?list=PLRdABJkXXytCz19PsZ1PCQBKoZGV069k3>`__ from Tamer Elsayed of Qatar University which use the book.
 - `Deep Learning: Foundations and Concepts <https://link.springer.com/book/10.1007/978-3-031-45468-4>`__ - An excellent and modern mathematical treatment of deep learning from one of the great researchers in the field and his son. You can download the PDF for free using your Georgia Tech library account.
 
 Other Great Books
